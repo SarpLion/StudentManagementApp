@@ -1,0 +1,7 @@
+C:\Users\sarpy\OneDrive\Belgeler\GitHub\StudentManagementApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\sarpy\OneDrive\Belgeler\GitHub\StudentManagementApp\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\sarpy\OneDrive\Belgeler\GitHub\StudentManagementApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\sarpy\OneDrive\Belgeler\GitHub\StudentManagementApp\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+C:\Users\sarpy\OneDrive\Belgeler\GitHub\StudentManagementApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\sarpy\OneDrive\Belgeler\GitHub\StudentManagementApp\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\sarpy\OneDrive\Belgeler\GitHub\StudentManagementApp\StudentApp\obj\Debug\StudentApp.pdb
